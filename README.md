@@ -1,1 +1,1 @@
-Unfished fork of VelocityUtils that will contain a blacklist feature.
+Unfinished fork of VelocityUtils that will contain a blacklist feature.
